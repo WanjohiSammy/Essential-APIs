@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "5cf1d32434d94cbfb43fd1c5",
+    "index": 38,
+    "name": "Sauce",
+    "affiliation": "George William Lockhart",
+    "species": "Asian",
+    "sex": "Female",
+    "fictional": "false",
+    "dob": "1900",
+    "dod": "1960",
+    "wikilink": "https://en.wikipedia.org/wiki/Salt_and_Sauce",
+    "image": "https://elephant-api.herokuapp.com/pictures/missing.jpg",
+    "note": "Salt and Sauce were once two of Britain's most famous and notorious performing elephants. Sauce killed her owner and trainer in an accident at Walthamstow Station and Salt killed an elephant groom when she attacked him in 1957 on Rosaire's Circus."
+  }
+]
